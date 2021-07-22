@@ -1,0 +1,1 @@
+var country = "united kingdom"; var countryisocode = "gbr"; var state = "tower hamlets"; var metro = "itv london"; var metrocode = "826044"; var postcode = "e14 9ub"; var offset = "100"; var dst = "y"; var countrycode = "826"; var connection = "broadband"; 
